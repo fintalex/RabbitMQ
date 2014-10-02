@@ -1,0 +1,1 @@
+c:\users\s.harchenko\documents\visual studio 2012\Projects\RabbitMQ remote procedure call\RabbitMQ remote procedure call\bin\Debug\RabbitMQ remote procedure call.exe.config
